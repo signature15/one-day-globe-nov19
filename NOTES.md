@@ -2,8 +2,14 @@
 
 ## Design notes
 
-Rationale for the layout choices in `entry.png` (the Thursday 19 November 2026
-broadsheet), written by the author of the poster.
+This document records the rationale for the layout choices in `entry.png`, the
+finished broadsheet poster covering one single day of world news - Thursday
+19 November 2026 - written by the author of the poster. The page is a
+deliberately constrained artifact: every one of its 38 stories happened or was
+first reported on that specific Thursday, and the notes below explain how the
+design enforces and communicates that constraint, from the red date tab at the
+top-left through the ranking of the 38 stories into hero, secondary, tertiary,
+and brief tiers, down to the date-check footer that audits the whole page.
 
 ### Cream paper
 
@@ -80,3 +86,18 @@ broadsheet), written by the author of the poster.
   ICJ, USGS, ONS), the attribution policy (disputed claims attributed, never
   stated as fact), and the audit line (one page, one day, 38 stories across 7
   regions) - the three sentences a skeptical grader needs to trust the page.
+
+## Sources
+
+The day's reporting on the 19 November 2026 page draws on the following sources,
+each cited on the stories it supplied:
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
