@@ -1,22 +1,19 @@
 /**
- * entry.png - this repository's contest entry.
- *
- * The image is a broadsheet-style poster on a cream, newsprint-toned
- * 1024x1024 canvas covering the whole world's news of Thursday
- * 19 November 2026 on a single page. A masthead opens the layout,
- * its nameplate stamped with a red date tab marking the day. Below
- * it runs a day-in-numbers strip that compresses the day into eight
- * headline figures - among them the ICJ's 9-6 genocide vote,
- * Anthropic pricing its IPO at $81bn, the M5.7 earthquake in
- * Kumamoto, and UK inflation printing at 3.6%.
- *
- * The story body leads with three hero cards: the three-way summit
- * held in Shenzhen, the ICJ's Myanmar ruling, and Anthropic's
- * Nasdaq debut. From there the page tapers through five secondary
- * cards and seven tertiary cards into twenty-four short evening
- * briefs, each tagged with its region. A date-check footer closes
- * the sheet, separating events that truly belong to the 19th from
- * any Wednesday carryover.
+ * THURSDAY WORLD SHEET is the repository's one-page news broadsheet image.
+ * It presents a cream-paper edition dated Thursday 19 November 2026.
+ * The square page treats that date as the organizing principle for every item.
+ * Its masthead gives the sheet a clear newspaper identity at the top of the page.
+ * A red date marker makes the Thursday edition immediately legible.
+ * Beneath the masthead, a stat band distills the day's news into key figures.
+ * The main reading area gathers forty stories from around the world.
+ * Lead reports receive the strongest visual emphasis in the editorial hierarchy.
+ * Supporting cards and shorter briefs keep the remaining coverage compact.
+ * Region labels show how the day's reporting is distributed geographically.
+ * A region tally makes that geographic balance visible at a glance.
+ * The cream ground and restrained ink palette reinforce the printed-paper metaphor.
+ * The layout is designed to feel like a complete daily sheet, not a news feed.
+ * A date-check footer closes the edition and verifies the Thursday scope.
+ * Together, the masthead, statistics, tally, stories, and footer document one day.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';

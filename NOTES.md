@@ -3,13 +3,12 @@
 ## Design notes
 
 This document records the rationale for the layout choices in `entry.png`, the
-finished broadsheet poster covering one single day of world news - Thursday
-19 November 2026 - written by the author of the poster. The page is a
-deliberately constrained artifact: every one of its 38 stories happened or was
-first reported on that specific Thursday, and the notes below explain how the
-design enforces and communicates that constraint, from the red date tab at the
-top-left through the ranking of the 38 stories into hero, secondary, tertiary,
-and brief tiers, down to the date-check footer that audits the whole page.
+finished THURSDAY WORLD SHEET: a cream, one-page broadsheet edition covering
+Thursday 19 November 2026. The page is a deliberately constrained artifact with
+40 stories, a stat band, a region tally, and a date-check footer; every story is
+presented as part of that specific Thursday's world news. The notes below explain
+how the design communicates that scope, from the red date tab and masthead
+through the story hierarchy and geographic accounting to the footer's audit.
 
 ### Cream paper
 
